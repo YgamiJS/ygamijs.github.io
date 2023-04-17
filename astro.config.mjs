@@ -8,7 +8,7 @@ import { SITE } from "./src/config";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://ygamijs.github.io/Dima",
+  site: "https://ygamijs.github.io/",
   base: "/Dima",
   site: SITE.website,
   integrations: [
