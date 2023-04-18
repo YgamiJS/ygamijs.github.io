@@ -11,12 +11,12 @@ ogImage: "https://github.githubassets.com/images/modules/profile/achievements/pu
 description: Моя перая страничка на astro Здраствуй мир!
 ---
 
-# Hello world
+## Hello world
 
 Моя перая страничка на astro Здраствуй мир!
 
-```
-    const hello world = document.querySelector("div");
+```js
+const hello world = document.querySelector("div");
 ```
 
 > **Все начинается с мечты** ...
