@@ -3,7 +3,7 @@ author: YgamiJS
 pubDatetime: 2023-04-16
 title: Здраствуй мир
 postSlug: Здраствуй мир
-featured: true
+featured: false
 draft: false
 tags:
   - docs
