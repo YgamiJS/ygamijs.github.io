@@ -11,7 +11,7 @@ ogImage: ""
 description: Архитектура FSD
 ---
 
-FSD - Feature-Sliced-Design
+# FSD - Feature-Sliced-Design
 
 > Architectural methodology for frontend projects
 
