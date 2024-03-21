@@ -1,4 +1,4 @@
----
+![image](https://github.com/YgamiJS/ygamijs.github.io/assets/105663726/ae8a0003-e944-4719-a110-e2f28292f50c)![image](https://github.com/YgamiJS/ygamijs.github.io/assets/105663726/4077167b-6bcc-4175-a6c2-12f827f48a0b)![image](https://github.com/YgamiJS/ygamijs.github.io/assets/105663726/87d2bf44-9df8-4030-87a4-a5895156ee8b)![image](https://github.com/YgamiJS/ygamijs.github.io/assets/105663726/151f6b4a-7a76-4e14-99ff-4e008c1b0af0)---
 layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
@@ -12,31 +12,31 @@ title: "About"
 
 <div align="center" class="flex flex-wrap gap-2 justify-center">
      <a href="https://reactjs.org/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg"
              title="React" alt="React"
              width="40" height="40"/></a>&nbsp;
     <a href="https://redux-toolkit.js.org/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/redux/redux-original.svg"
              title="Redux Toolkit" alt="Redux Toolkit"
              width="40" height="40"/></a>&nbsp;       
     <a href="https://en.wikipedia.org/wiki/CSS">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg"
              title="CSS3" alt="CSS"
              width="40" height="40"/></a>&nbsp;
     <a href="https://en.wikipedia.org/wiki/HTML">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg"
              title="HTML5" alt="HTML"
              width="40" height="40"/></a>&nbsp;
     <a href="https://sass-lang.com/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sass/sass-original.svg"
              title="SASS" alt="SASS"
              width="40" height="40"/></a>&nbsp;         
     <a href="https://en.wikipedia.org/wiki/JavaScript">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg"
              title="JavaScript" alt="JavaScript"
              width="40" height="40"/></a>&nbsp;
     <a href="https://www.typescriptlang.org/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg"
              title="TypeScript" alt="TypeScript"
              width="40" height="40"/></a>&nbsp;
        <a href="https://nodejs.org/en">
@@ -46,7 +46,7 @@ title: "About"
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40" />  
     </a>&nbsp;
     <a href="https://git-scm.com/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg"
              title="Git" alt="Git"
              width="40" height="40"/></a>&nbsp;
     <a href="https://tailwindcss.com/">
