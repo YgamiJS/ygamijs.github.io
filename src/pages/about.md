@@ -11,54 +11,70 @@ title: "About"
 <p class="text-center">Junior frontend developer</p>
 
 <div align="center" class="flex flex-wrap gap-2 justify-center">
-    <a href="https://reactjs.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//react/react-original.svg"
+     <a href="https://reactjs.org/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
              title="React" alt="React"
-             width="40" height="40"/></a>
+             width="40" height="40"/></a>&nbsp;
     <a href="https://redux-toolkit.js.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//redux/redux-original.svg"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"
              title="Redux Toolkit" alt="Redux Toolkit"
-             width="40" height="40"/></a>       
+             width="40" height="40"/></a>&nbsp;       
     <a href="https://en.wikipedia.org/wiki/CSS">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//css3/css3-original.svg"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
              title="CSS3" alt="CSS"
-             width="40" height="40"/></a>
+             width="40" height="40"/></a>&nbsp;
     <a href="https://en.wikipedia.org/wiki/HTML">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//html5/html5-original.svg"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
              title="HTML5" alt="HTML"
-             width="40" height="40"/></a>
+             width="40" height="40"/></a>&nbsp;
     <a href="https://sass-lang.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//sass/sass-original.svg"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
              title="SASS" alt="SASS"
-             width="40" height="40"/></a>         
+             width="40" height="40"/></a>&nbsp;         
     <a href="https://en.wikipedia.org/wiki/JavaScript">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//javascript/javascript-original.svg"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
              title="JavaScript" alt="JavaScript"
-             width="40" height="40"/></a>
+             width="40" height="40"/></a>&nbsp;
     <a href="https://www.typescriptlang.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//typescript/typescript-original.svg"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
              title="TypeScript" alt="TypeScript"
-             width="40" height="40"/></a>
+             width="40" height="40"/></a>&nbsp;
        <a href="https://nodejs.org/en">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="40" height="40" />  
-    </a>
+    </a>&nbsp;
     <a href="https://expressjs.com/" bgcolor="white">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40" />  
-    </a>
+    </a>&nbsp;
     <a href="https://git-scm.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//git/git-original.svg"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
              title="Git" alt="Git"
-             width="40" height="40"/></a>
+             width="40" height="40"/></a>&nbsp;
     <a href="https://tailwindcss.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
              title="TailwindCSS" alt="TaiwindCSS"
-             width="40" height="40"/></a>
+             width="40" height="40"/></a>&nbsp;
+     <a href="https://vitejs.dev/">
+         <img src="https://vitejs.dev/logo.svg" title="Vite" alt="Vite" width="40" height="40"/>
+    </a>  
+    <br />
     <a href="https://webpack.js.org/">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>
     </a>    
     <a href="https://gulpjs.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp" width="40" height="40" />
     </a>
+    <a href="https://www.php.net/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40" />
+    </a>
+    <a href="https://ru.wordpress.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" width="40" height="40" />
+    </a>
+     <a href="https://vuejs.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40" />
+    </a>
+    <a href="https://pinia.vuejs.org/">
+        <img src="https://pinia.vuejs.org/logo.svg" title="Pinia" alt="Pinia" width="40" height="40" />
+    </a>  
 </div>
 <div align="center" ><br /><img src="https://www.codewars.com/users/YgamiJS/badges/large" alt="" /><a href="https://ygamijs.github.io/YgamiJS/">Портфолио</a></div>
 <div align="center">
