@@ -1,4 +1,4 @@
-![image](https://github.com/YgamiJS/ygamijs.github.io/assets/105663726/ae8a0003-e944-4719-a110-e2f28292f50c)![image](https://github.com/YgamiJS/ygamijs.github.io/assets/105663726/4077167b-6bcc-4175-a6c2-12f827f48a0b)![image](https://github.com/YgamiJS/ygamijs.github.io/assets/105663726/87d2bf44-9df8-4030-87a4-a5895156ee8b)![image](https://github.com/YgamiJS/ygamijs.github.io/assets/105663726/151f6b4a-7a76-4e14-99ff-4e008c1b0af0)---
+---
 layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
