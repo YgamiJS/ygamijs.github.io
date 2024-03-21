@@ -8,7 +8,7 @@ title: "About"
 </div>
 
 <h1 class="text-center">YgamiJS</h1>
-<p class="text-center">Junior frontend developer</p>
+<p class="text-center">Frontend developer</p>
 
 <div align="center" class="flex flex-wrap gap-2 justify-center">
      <a href="https://reactjs.org/">
@@ -81,7 +81,7 @@ title: "About"
 <h2>Связь:</h2>
 <ul style="list-style: none">
     <li><a href="mailto:dimasakharov@icloud.com">Email: dimasakharov@icloud.com</a></li>
-    <li><a href="https://t.me/Dimasss201">Telegram: https://t.me/Dimasss201</a></li>
+    <li><a href="https://t.me/Dimasss201">Telegram: https://t.me/DmitriyWork201</a></li>
     <li><a href="https://github.com/YgamiJS">GitHub: https://github.com/YgamiJS</a></li>
 </ul>
 </div>
