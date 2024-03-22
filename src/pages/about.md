@@ -4,7 +4,7 @@ title: "About"
 ---
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=147&height=200&section=header&text=Dima%&desc=Frontend%20developer&animation=fadeIn&fontColor=fff&fontSize=60&fontAlign=20&fontAlignY=44&descSize=18&descAlign=12&descAlignY=17"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=200&section=header&text=Dima%&desc=Frontend%20developer&animation=fadeIn&fontColor=fff&fontSize=60&fontAlign=20&fontAlignY=44&descSize=18&descAlign=12&descAlignY=17"/>
 </div>
 
 <h1 class="text-center">YgamiJS</h1>
@@ -87,6 +87,6 @@ title: "About"
 </div>
 <div align="center">
 <a href=mailto:dimasakharov@icloud.com>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=147&height=120&section=footer&text=ready%20to%20cooperation&animation=fadeIn&fontColor=fff&fontSize=12&fontAlign=50&fontAlignY=80&descSize=20&descAlign=84&descAlignY=43"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer&text=ready%20to%20cooperation&animation=fadeIn&fontColor=fff&fontSize=12&fontAlign=50&fontAlignY=80&descSize=20&descAlign=84&descAlignY=43"/>
     </a>
 </div>
